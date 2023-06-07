@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://clean-and-organized.web.app/sitemap.xml
